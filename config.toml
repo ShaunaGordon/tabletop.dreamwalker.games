@@ -1,18 +1,84 @@
 baseURL = "//tabletop.dreamwalker.games/"
 languageCode = "en-us"
-title = "Tabletop"
-theme = "hugo-creative-portfolio-theme"
-languageCode = "en-us"
+title = "Tabletop Treasures"
+theme = "book"
+
+enableGitInfo = true
+
+# (Optional) Theme is intended for documentation use, therefore it doesn't render taxonomy.
+# You can remove related files with config below
+disableKinds = ['taxonomy', 'taxonomyTerm']
+
+[markup.goldmark.renderer]
+  unsafe = true
 
 [params]
-  # Style options: default (pink), blue, green, pink, red, sea, violet
-  # Use custom.css for your custom styling
-  style = "blue"
   description = "Tabletop Resources For Everyone"
   copyright = "&copy;2021 Dreamwalker Collective"
-  sidebarAbout = [
-    "Creating a variety of tabletop RPG assets."
-  ]
+
+  # (Optional, default light) Sets color theme: light, dark or auto.
+  # Theme 'auto' switches between dark and light modes based on browser/os preferences
+  BookTheme = 'auto'
+
+  # (Optional, default true) Controls table of contents visibility on right side of pages.
+  # Start and end levels can be controlled with markup.tableOfContents setting.
+  # You can also specify this parameter per page in front matter.
+  BookToC = true
+
+  # (Optional, default none) Set the path to a logo for the book. If the logo is
+  # /static/logo.png then the path would be 'logo.png'
+  # BookLogo = 'logo.png'
+
+  # (Optional, default none) Set leaf bundle to render as side menu
+  # When not specified file structure and weights will be used
+  # BookMenuBundle = '/menu'
+
+  # (Optional, default docs) Specify section of content to render as menu
+  # You can also set value to "*" to render all sections to menu
+  BookSection = 'docs'
+
+  # Set source repository location.
+  # Used for 'Last Modified' and 'Edit this page' links.
+  BookRepo = ''
+
+  # Specifies commit portion of the link to the page's last modified commit hash for 'doc' page
+  # type.
+  # Required if 'BookRepo' param is set.
+  # Value used to construct a URL consisting of BookRepo/BookCommitPath/<commit-hash>
+  # Github uses 'commit', Bitbucket uses 'commits'
+  BookCommitPath = 'commit'
+
+  # Enable 'Edit this page' links for 'doc' page type.
+  # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
+  # Path must point to the site directory.
+  BookEditPath = 'edit/master/exampleSite'
+
+  # (Optional, default January 2, 2006) Configure the date format used on the pages
+  # - In git information
+  # - In blog posts
+  BookDateFormat = 'Jan 2, 2006'
+
+  # (Optional, default true) Enables search function with flexsearch,
+  # Index is built on fly, therefore it might slowdown your website.
+  # Configuration for indexing can be adjusted in i18n folder per language.
+  BookSearch = true
+
+  # (Optional, default true) Enables comments template on pages
+  # By default partials/docs/comments.html includes Disqus template
+  # See https://gohugo.io/content-management/comments/#configure-disqus
+  # Can be overwritten by same param in page frontmatter
+  BookComments = false
+
+  # /!\ This is an experimental feature, might be removed or changed at any time
+  # (Optional, experimental, default false) Enables portable links and link checks in markdown pages.
+  # Portable links meant to work with text editors and let you write markdown without {{< relref >}} shortcode
+  # Theme will print warning if page referenced in markdown does not exists.
+  BookPortableLinks = true
+
+  # /!\ This is an experimental feature, might be removed or changed at any time
+  # (Optional, experimental, default false) Enables service worker that caches visited pages and resources for offline use.
+  BookServiceWorker = true
+
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
      # proxy. The form makes a POST request to their servers to send the actual
@@ -37,28 +103,22 @@ languageCode = "en-us"
       #  hash = ""
 
   # Nav links in the side bar
-  [[params.navlinks]]
-  name = "Home"
-  url = "items/"
-  home = true
+  # [[params.navlinks]]
+  # name = "Home"
+  # url = "items/"
+  # home = true
 
-  [[params.navlinks]]
-  name = "About"
-  url = "about/"
+  # [[params.navlinks]]
+  # name = "About"
+  # url = "about/"
 
-  [[params.navlinks]]
-  name = "Get in touch"
-  url = "contact/"
+  # [[params.navlinks]]
+  # name = "Get in touch"
+  # url = "contact/"
 
   [params.social]
-#  facebook      = "full page or profile url in facebook"
-#  googleplus    = "full profile url in googleplus"
    email         = "tabletop@dreamwalker.games"
 #  twitter       = "full profile url in twitter"
-#  linkedin      = "full profile url in linkedin"
-#  stackoverflow = "full profile url in stackoverflow"
-#  instagram     = "full profile url in instagram"
 #  github        = "full profile url in github"
 #  gitlab        = "full profile url in gitlab"
 #  youtube       = "full profile url in youtube"
-#  whatsapp      = "wa.me service link"

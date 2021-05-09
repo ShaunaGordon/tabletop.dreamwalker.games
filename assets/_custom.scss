@@ -1,0 +1,9 @@
+@import 'phb';
+
+.markdown {
+    min-height: 100%;
+
+    .phb:first-child blockquote {
+        margin-top: 0;
+    }
+}
