@@ -17,7 +17,7 @@ title = "Morrow's Magnificent Marvels"
 
 This bestiary is a collection of creatures that my co-DMs and I created for our Grim Saints campaign. Because our game is a D&D 5e game set in the Pathfinder universe, a number of these creatures are converted from their Pathfinder origins and given 5e stat blocks and abilities (though some have further customizations). We have also created some whole-cloth for our purposes.
 
-The creatures here have been "playtested" in the sense that we have used them in our campaign and our own characters have fought against them, unless a creature is otherwise labelled. Additionally, they have been designed for a fairly well-optimized and tank-heavy group, and therefore may be on the higher end of difficulty for a given Challenge Rating.
+The creatures here have been "playtested" in the sense that we have used them in our campaign and our own characters have fought against them, unless a creature is otherwise labelled.
 
 ### Game Challenges
 
