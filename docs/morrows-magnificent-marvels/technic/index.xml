@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technic Constructs on Tabletop Treasures</title>
+    <link>//tabletop.dreamwalker.games/docs/morrows-magnificent-marvels/technic/</link>
+    <description>Recent content in Technic Constructs on Tabletop Treasures</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="//tabletop.dreamwalker.games/docs/morrows-magnificent-marvels/technic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Technic Hydra</title>
+      <link>//tabletop.dreamwalker.games/docs/morrows-magnificent-marvels/technic/hydra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//tabletop.dreamwalker.games/docs/morrows-magnificent-marvels/technic/hydra/</guid>
+      <description>Technic Hydra #  Like their organic counterparts, Technic Hydras have multiple heads that regrow when severed. Instead of fire, though, these creatures need a lightning attack to disrupt their nanotech and prevent the regrowth.
+Similar to the Myrmidons, the Hydra has the ability to focus its electrical energy into a single beam of lightning, though the Hydra&amp;rsquo;s is powerful enough to paralyze at range. The general consensus of thsoe who study this creature (and live to tell about it) is that it uses this ability to aid in hunting and bringing down prey.</description>
+    </item>
+    
+    <item>
+      <title>Technic Myrmidon</title>
+      <link>//tabletop.dreamwalker.games/docs/morrows-magnificent-marvels/technic/myrmidon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//tabletop.dreamwalker.games/docs/morrows-magnificent-marvels/technic/myrmidon/</guid>
+      <description>Technic Myrmidon #  Resembling a flying humanoid, even the aberrant Myrmidon can be a formidable foe. Its laser tentacles can paralyze its target, leaving the victim vulnerable to other attacks.
+Variant: Aberrant Myrmidon Aberrant Myrmidons have malfunctioned for one reason or another, often as a result of a spacial anomaly or electromagnetic interference. These Myrmidons cannot generate sufficient power to generate a force field, use its stronger attacks, or generate as much pincer force.</description>
+    </item>
+    
+    <item>
+      <title>Technic Spiderbot</title>
+      <link>//tabletop.dreamwalker.games/docs/morrows-magnificent-marvels/technic/spiderbot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//tabletop.dreamwalker.games/docs/morrows-magnificent-marvels/technic/spiderbot/</guid>
+      <description>Technic Spiderbot #  More annoying than dangerous to anyone who has grown beyond a commoner, unless they swarm. And swarm they do. Spiderbots generally appear in packs of no less than four.
+These creatures are about the size of a large dog, with a body resembling a scorpion. Pincers on the front lash out to attack those in melee, while the spiked tail can either lash out in a melee attack, or open up to reveal small laser guns to hit targets at range.</description>
+    </item>
+    
+  </channel>
+</rss>
