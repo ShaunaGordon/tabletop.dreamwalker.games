@@ -7,9 +7,9 @@ bookToC = false
 
 {{< columns >}}
 
-Like their organic counterparts, Technic Hydras have multiple heads that regrow when severed. Instead of fire, though, these creatures need a lightning attack to disrupt their nanotech and prevent the regrowth.
+Like their organic counterparts, Technic Hydras have multiple heads that regrow when severed. Instead of fire, though, these creatures need a lightning attack to disrupt their nanotech and prevent regrowth.
 
-Similar to the Myrmidons, the Hydra has the ability to focus its electrical energy into a single beam of lightning, though the Hydra's is powerful enough to paralyze at range. The general consensus of thsoe who study this creature (and live to tell about it) is that it uses this ability to aid in hunting and bringing down prey.
+Similar to the Myrmidons, the Hydra has the ability to focus its electrical energy into a single beam of lightning, though the Hydra's is powerful enough to paralyze at range. The general consensus of those who study this creature (and live to tell about it) is that it uses this ability to aid in hunting and bringing down prey.
 
 <--->
 

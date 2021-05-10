@@ -9,9 +9,13 @@ bookToC = false
 
 Resembling a flying humanoid, even the aberrant Myrmidon can be a formidable foe. Its laser tentacles can paralyze its target, leaving the victim vulnerable to other attacks.
 
+When fully functional, the Myrmidon is no laughing matter. As intelligent as most humanoids, with the power to create a force shield for extra protection, and to lash out with its tentacles or generate an electrical pulse to hit enemies at range, the Myrmidon can pose a real threat to anyone who stumbles upon one.
+
+While considered "Technic" by most people, Myrmidons are not, in fact, under the control of the Technic League. The Myrmidon's artificial intelligence has proven too advanced for the League to bend to their will, allowing the machines to act and live of their own accord.
+
 ## Variant: Aberrant Myrmidon
 
-Aberrant Myrmidons have malfunctioned for one reason or another, often as a result of a spacial anomaly or electromagnetic interference. These Myrmidons cannot generate sufficient power to generate a force field, use its stronger attacks, or generate as much pincer force.
+Aberrant Myrmidons have malfunctioned for one reason or another, often as a result of a spacial anomaly or electromagnetic interference. These Myrmidons cannot generate sufficient power to generate a force field, use its stronger attacks, or generate as much pincer force. Their artificial brain has also partially shut down, rendering them unable to understand language or communicate in any meaningful way.
 
 That doesn't mean they are easy to dispatch, however. They are still strong machines, capable of both grappling and flight, and their tentacles can still stun their victims -- a potentially deadly combination.
 
