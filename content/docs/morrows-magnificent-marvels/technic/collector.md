@@ -16,7 +16,7 @@ When it comes to living creatures, the bot's primary directive is "catch, tag, a
 <div class="phb">
 
 ___
-> ## Technic Collector Bot
+> ## Technic Collector Bot (Untested)
 >*Medium construct, unaligned*
 > ___
 > - **Armor Class** 16 (natural armor)
