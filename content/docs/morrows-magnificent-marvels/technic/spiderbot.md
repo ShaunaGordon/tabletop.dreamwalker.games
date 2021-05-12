@@ -34,7 +34,7 @@ ___
 > - **Damage Immunities** poison
 > - **Condition Immunities** poisoned
 > - **Senses** truesight 120 ft, passive Perception 10
-> - **Languages** -
+> - **Languages** Common, Hallit
 > - **Challenge** 1/2 (100 XP)
 > ___
 > ***Nanotech Body.*** If the Spiderbot dies, its body disintegrates, leaving behind only what it was carrying.
