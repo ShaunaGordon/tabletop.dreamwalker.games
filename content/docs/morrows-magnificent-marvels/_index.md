@@ -21,7 +21,7 @@ The creatures here have been "playtested" in the sense that we have used them in
 
 ### Game Challenges
 
-Most of these creatures were designed to overcome the specific challenges that our group makeup has posed. Our players are all experienced as players and most are also experienced DMs, which has resulted in fairly highly optimized and durable characters. With two Barbarians, an evasive Rogue, and an armored-to-the-teeth Paladin at its core, we tend to laugh at so-called "deadly" encounters by the usual challenge calculators. For us, "deadly" typically means "we might have to throw a heal on someone who was particularly unlucky or stupid."
+Most of these creatures were designed to overcome the specific challenges that our group makeup has posed. Our players are all experienced as players and most are also experienced DMs, which has resulted in fairly highly optimized and durable characters. With two Barbarians, an evasive Rogue, and an armored-to-the-teeth Paladin at its core, we tend to laugh at so-called "deadly" encounters by the usual challenge calculators. For us, "deadly" typically means "we *might* have to throw a heal on someone who was particularly unlucky or stupid."
 
 To add to the challenge, outside of the Barbarians and Paladin, the group is really squishy and can often be one-shot by anything that can even remotely threaten the other three. This makes it very difficult to tune encounters to really feel threatening without making it completely unfair to the squishier members.
 
