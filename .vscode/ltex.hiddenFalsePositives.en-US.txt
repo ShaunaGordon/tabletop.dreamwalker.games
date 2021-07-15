@@ -1,0 +1,1 @@
+{"rule":"EN_A_VS_AN","sentence":"^\\QIt grows along forest edges, as an herbaceous, mounding plant under larger bushes.\\E$"}

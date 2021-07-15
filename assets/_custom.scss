@@ -7,3 +7,19 @@
         margin-top: 0;
     }
 }
+
+.note {
+    width: 30%;
+    float: right;
+    background-color: var(--gray-200);
+    padding: .5rem 1rem;
+    margin: auto 1rem;
+
+    &.left {
+        float: left;
+    }
+
+    &:after {
+        clear: both;
+    }
+}
