@@ -17,6 +17,11 @@
 
     &.left {
         float: left;
+        margin-left: 0;
+    }
+
+    &.wide {
+        width: 50%;
     }
 
     &:after {
