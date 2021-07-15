@@ -8,11 +8,31 @@
     <language>en-us</language><atom:link href="//tabletop.dreamwalker.games/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
+      <link>//tabletop.dreamwalker.games/docs/morrows-magnificent-marvels/unique/caroliss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//tabletop.dreamwalker.games/docs/morrows-magnificent-marvels/unique/caroliss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>//tabletop.dreamwalker.games/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//tabletop.dreamwalker.games/posts/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Amiri</title>
+      <link>//tabletop.dreamwalker.games/docs/morrows-magnificent-marvels/unique/amiri/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//tabletop.dreamwalker.games/docs/morrows-magnificent-marvels/unique/amiri/</guid>
+      <description>Amiri #  One of Golarion&amp;rsquo;s iconics for good reason. We encountered her during her earlier days, when she passed through Carrion Hill in Ustalav, where she was the reining champion of the fighting pit there.
+She&amp;rsquo;s quite the formidable foe, having stood toe-to-toe against our own Gorumite and nearly defeated him. In fact, she would have done so, were it not for his half-orcish tenacity.
+They&amp;rsquo;re quite good friends now, with a gleeful, healthy respect for one another.</description>
     </item>
     
     <item>
@@ -73,6 +93,16 @@ When fully functional, the Myrmidon is no laughing matter. As intelligent as mos
       <guid>//tabletop.dreamwalker.games/docs/morrows-magnificent-marvels/technic/spiderbot/</guid>
       <description>Technic Spiderbot #  More annoying than dangerous to anyone who has grown beyond a commoner, unless they swarm. And swarm they do. Spiderbots generally appear in packs of no less than four.
 These creatures are about the size of a large dog, with a body resembling a scorpion. Pincers on the front lash out to attack those in melee, while the spiked tail can either lash out in a melee attack, or open up to reveal small laser guns to hit targets at range.</description>
+    </item>
+    
+    <item>
+      <title>Wolf&#39;s Bane</title>
+      <link>//tabletop.dreamwalker.games/docs/morrows-magnificent-marvels/mechanics/wolfsbane/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//tabletop.dreamwalker.games/docs/morrows-magnificent-marvels/mechanics/wolfsbane/</guid>
+      <description>The curse of lycanthropy doesn&amp;rsquo;t take over immediately; a full moon is needed to cement its hold over a person. Until then, a potion made of Wolf&amp;rsquo;s Bane can be used to cure the person &amp;ndash; but the cure comes with risks of its own.
+The potion that can cure early stage lycanthropy is volatile and must be made from the highly toxic Wolf&amp;rsquo;s Bane flower, must be administered before the afflicted&amp;rsquo;s first full moon, and the potion is only good for one to two weeks (and therefore cannot be made ahead of time and stockpiled indefinitely).</description>
     </item>
     
   </channel>
