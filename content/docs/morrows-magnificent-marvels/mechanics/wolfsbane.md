@@ -3,6 +3,8 @@ title = "Wolf's Bane"
 bookToC = true
 +++
 
+# Wolf's Bane
+
 The curse of lycanthropy doesn't take over immediately; a full moon is needed to cement its hold over a person. Until then, a potion made of Wolf's Bane can be used to cure the person -- but the cure comes with risks of its own.
 
 The potion that can cure early stage lycanthropy is volatile and must be made from the highly toxic Wolf's Bane flower, must be administered before the afflicted's first full moon, and the potion is only good for one to two weeks (and therefore cannot be made ahead of time and stockpiled indefinitely).
@@ -27,7 +29,7 @@ A successful gathering round consists of three steps, each with their own skill 
 
 #### Optional Rule: Soft Failing Nature Checks
 
-Failed Nature checks can still yield flowers, but unusable (DC minus 6+) or yellow ones (DC minus 1-5). Yellow flowers can still be used to make a potion, but death save DC increases by 1 for every 2 yellow flowers used.
+Failed Nature checks can still yield flowers, but unusable (DC minus 6+) or yellow ones (DC minus 1-5). Yellow flowers can still be used to make a potion, but death save DC increases by 1 for every yellow flower used.
 
 </div>
 

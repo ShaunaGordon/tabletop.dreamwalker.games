@@ -1,1 +1,2 @@
 {"rule":"EN_A_VS_AN","sentence":"^\\QIt grows along forest edges, as an herbaceous, mounding plant under larger bushes.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q+++ bookCollapseSection = true title = \"Game Master Tools\" +++\\E$"}
