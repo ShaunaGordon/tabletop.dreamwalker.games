@@ -3,6 +3,7 @@ bookCollapseSection = true
 title = "Bestiary"
 +++
 
+# Bestiary
 ## Editor's Notes
 
 This is a collection of creatures that my co-DMs and I created for our Grim Saints campaign. Because our game is a D&D 5e game set in the Pathfinder universe, a number of these creatures are converted from their Pathfinder origins and given 5e stat blocks and abilities (though some have further customizations). We have also created some whole-cloth for our purposes.

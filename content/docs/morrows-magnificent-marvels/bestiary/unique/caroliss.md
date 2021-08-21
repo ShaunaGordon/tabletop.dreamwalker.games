@@ -9,6 +9,8 @@ bookToC = false
 
 Commander Caroliss Minerran leads the Iomedaean knights that rule the settlement of Castle Urion in Numeria. As such, she balances her oath to Iomedae, her deal with the Black Sovereign, and her own morals.
 
+We ran into her when a vampire hunter came after me (long story), and it was her oath tenets of honor and compassion that saved us...until one of my guys caused trouble at the inn later that evening (uh...also a long story).
+
 <--->
 
 <div class="phb">
@@ -49,10 +51,10 @@ ___
 > ### Actions
 > ***Longsword.*** *Melee Weapon Attack:* +11 to hit, reach 5ft., one target. *Hit* 12 (1d10 + 6) slashing damage
 >
-> **Greatsword.** *Melee Weapon Attack:* +11 to hit, reach 5ft., one target. *Hit* (2d6 + 6) slashing damage
+> ***Greatsword.*** *Melee Weapon Attack:* +11 to hit, reach 5ft., one target. *Hit* (2d6 + 6) slashing damage
 >
 > ### Reactions
-> **Riposte.** Recharge 5-6. When a creature misses Caroliss with a melee attack, she can use her reaction to attack with her weapon against that creature. When she does, if she hits, she adds 1d6 to her damage.
+> ***Riposte.*** Recharge 5-6. When a creature misses Caroliss with a melee attack, she can use her reaction to attack with her weapon against that creature. When she does, if she hits, she adds 1d6 to her damage.
 
 </div>
 
