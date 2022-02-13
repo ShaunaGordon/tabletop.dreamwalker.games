@@ -1,6 +1,7 @@
 +++
 title = "Iomedaean Knight"
 bookToC = false
+weight = 2
 +++
 
 # Iomedaean Knight

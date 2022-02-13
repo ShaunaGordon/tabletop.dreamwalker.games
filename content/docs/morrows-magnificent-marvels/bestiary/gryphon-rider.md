@@ -1,6 +1,7 @@
 +++
 title = "Iomedaean Gryphon Rider"
 bookToC = false
+weight = 2
 +++
 
 # Iomedaean Gryphon Rider

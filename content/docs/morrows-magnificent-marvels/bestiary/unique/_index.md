@@ -1,6 +1,7 @@
 +++
 bookCollapseSection = true
 title = "Unique Creatures and Notable People"
+weight = 1
 +++
 
 # Unique Creatures and Notable People
