@@ -18,7 +18,7 @@ Gryphons, however, are not mere steeds. As part of their training, Gryphon Rider
 
 ___
 > ## Iomedaean Gryphon Rider
->*Median humanoid, Lawful Good*
+>*Medium humanoid, Lawful Good*
 > ___
 > - **Armor Class** 15 (gryphon rider armor)
 > - **Hit Points** 85 (10d10 + 30)

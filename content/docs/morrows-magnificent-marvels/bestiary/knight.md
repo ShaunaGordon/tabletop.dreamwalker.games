@@ -27,7 +27,7 @@ While all of the Knights are considered paladins, only the Knight-Captain is a "
 
 ___
 > ## Iomedaean Knight (Defensive)
->*Median humanoid, Lawful Good*
+>*Medium humanoid, Lawful Good*
 > ___
 > - **Armor Class** 20 (plate + shield)
 > - **Hit Points** 64 (8d10 + 20)
@@ -57,7 +57,7 @@ ___
 
 ___
 > ## Iomedaean Knight-Captain
->*Median humanoid, Lawful Good*
+>*Medium humanoid, Lawful Good*
 > ___
 > - **Armor Class** 20 (plate + shield)
 > - **Hit Points** 64 (8d10 + 20)
