@@ -20,7 +20,7 @@ The Sarkorian Steppes, in the westernmost region of the Worldwound, contains a f
 | 5  | 2d4 Mammoths                                                               |
 | 6  | Sarkorian settlement ruins                                                 |
 | 7  | The Hornbreakers                                                           |
-| 8  | A village with 3d6 cultists + 1d4 Blessed Cultists (roll on [Blessed Cultists]({{< relref "blessed_cultists.md" >}} "Blessed Cultists") table) |
+| 8  | A village with 3d6 cultists + 1d4 Blessed Cultists (roll on [Blessed Cultists]({{< relref "blessed-cultists.md" >}} "Blessed Cultists") table) |
 | 9  | 2d10 Ice Mephits                                                           |
 | 10 | Sarkorian settlement                                                       |
 | 11 | A Sire of Insanity                                                         |

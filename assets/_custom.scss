@@ -28,3 +28,13 @@
         clear: both;
     }
 }
+
+.footer {
+    &>* {
+        margin-right: 1rem;
+
+        &:last-child {
+            margin-right: 0;
+        }
+    }
+}

@@ -11,8 +11,6 @@ Some particularly...fortunate...cultists are blessed by their demon lord and giv
 
 ## Editor's Notes
 
-This content is experimental and still needs more testing. If you want to help test, we encourage you to send us as much as you can!
-
 The Blessed Cultists table contains modifications to the base monster types. While these were created to be applied to the Cultist creature, they can be applied to any creature to create a Blessed version. When applied to a base creature, the Blessed creature keeps their original attributes and abilities, and gains the ones listed for the relevant Demon Lord, unless the creature already has a better version of the ability.
 
 Because of the template nature of this table, getting an exact CR is a challenge unto itself. Playtesting has found that applying these modifications to a Cultist monster results in a creature that is roughly CR 4.
