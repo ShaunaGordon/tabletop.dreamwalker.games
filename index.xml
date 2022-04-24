@@ -7,6 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="//tabletop.dreamwalker.games/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Floodslain</title>
+      <link>//tabletop.dreamwalker.games/docs/morrows-magnificent-marvels/mechanics/creature-augmentations/floodslain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//tabletop.dreamwalker.games/docs/morrows-magnificent-marvels/mechanics/creature-augmentations/floodslain/</guid>
+      <description>The Floodslain #   We saw the stream of water, first. It flowed down the hill, bringing the leaves with it and turning everything to thick, soupy, slippery mud.
+But it was the eyes that were most chilling. The orc was wild-eyed, as if frozen in fear, as were the rectangular eyes of his goats. And they were all dripping wet, as though caught in an invisible downpour so perpetual that their bodies took on the water like over-saturated rags, swelling them grotesquely and flowing from their eyes, their noses&amp;hellip;their wounds.</description>
+    </item>
+    
+    <item>
       <title>Iomedaean Gryphon Rider</title>
       <link>//tabletop.dreamwalker.games/docs/morrows-magnificent-marvels/bestiary/gryphon-rider/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -23,7 +33,7 @@ Gryphons, however, are not mere steeds. As part of their training, Gryphon Rider
       
       <guid>//tabletop.dreamwalker.games/docs/morrows-magnificent-marvels/bestiary/knight/</guid>
       <description>Iomedaean Knight #  The Iomedaean Knights serve as the guard and ruling class of Castle Urion in southwestern Numeria. As Knights of Iomedae, they embody the typical &amp;ldquo;knight in shining armor&amp;rdquo; ideal. Their steel plate and (typically) greatsword are crafted to appear nearly white, save for their red gold accents, and kept highly polished.
-Variant: Defensive Defensive Knights forego the greatsword of most knights in favor of the more stereotypical longsword and shield, granting them additional protection at the expense of a little damage output.</description>
+Variant: Defensive #  Defensive Knights forego the greatsword of most knights in favor of the more stereotypical longsword and shield, granting them additional protection at the expense of a little damage output.</description>
     </item>
     
     <item>
@@ -48,10 +58,10 @@ They&amp;rsquo;re quite good friends now, with a gleeful, healthy respect for on
     
     <item>
       <title>Blessed Cultists</title>
-      <link>//tabletop.dreamwalker.games/docs/morrows-magnificent-marvels/mechanics/random_tables/blessed_cultists/</link>
+      <link>//tabletop.dreamwalker.games/docs/morrows-magnificent-marvels/mechanics/creature-augmentations/blessed-cultists/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//tabletop.dreamwalker.games/docs/morrows-magnificent-marvels/mechanics/random_tables/blessed_cultists/</guid>
+      <guid>//tabletop.dreamwalker.games/docs/morrows-magnificent-marvels/mechanics/creature-augmentations/blessed-cultists/</guid>
       <description>Blessed Cultists #  Cults can crop up anywhere, but demon lord cults are especially prolific throughout the Worldwound, where many survivors either search for power through the demon lord&amp;rsquo;s favor, or hope they will provide a modicum of safety in a dangerous land.
 Some particularly&amp;hellip;fortunate&amp;hellip;cultists are blessed by their demon lord and given some of their patron&amp;rsquo;s attributes. Only a handful per village are selected for this great gift, but sometimes, only a handful is more than enough.</description>
     </item>
@@ -74,7 +84,7 @@ We ran into her when a vampire hunter came after me (long story), and it was her
       <guid>//tabletop.dreamwalker.games/docs/morrows-magnificent-marvels/bestiary/unique/elvisar/</guid>
       <description>Elvisar #  One of the leading bards at the school in Castle Urion, he served as my bard tutor and loose ally while I was there.
 He&amp;rsquo;s a little flamboyant (okay, a lot flamboyant), has a cocky streak, and gives truth to the bard stereotype, but behind the act, does genuinely care about those he calls friend.
-   Elvisar Spring Eladrin College of Eloquence Bard 10, Chaotic Good</description>
+   Elvisar #  Spring Eladrin College of Eloquence Bard 10, Chaotic Good</description>
     </item>
     
     <item>
@@ -119,10 +129,10 @@ These creatures are about the size of a large dog, with a body resembling a scor
     
     <item>
       <title>The Sarkorian Steppes</title>
-      <link>//tabletop.dreamwalker.games/docs/morrows-magnificent-marvels/mechanics/random_tables/sarkorian_steppes/</link>
+      <link>//tabletop.dreamwalker.games/docs/morrows-magnificent-marvels/mechanics/random-tables/sarkorian-steppes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//tabletop.dreamwalker.games/docs/morrows-magnificent-marvels/mechanics/random_tables/sarkorian_steppes/</guid>
+      <guid>//tabletop.dreamwalker.games/docs/morrows-magnificent-marvels/mechanics/random-tables/sarkorian-steppes/</guid>
       <description>The Sarkorian Steppes #   Environment: Steppe, Flatland Climate: Arctic/Subarctic Minimum Level: 6  The Sarkorian Steppes, in the westernmost region of the Worldwound, contains a fascinating assortment of creatures, due to its position as a borderland between the heart of the Worldwound and the unaffected Realm of the Mammoth Lords. Travelers through the region may see nothing but the native mammoths, elks, or even powerful rocs, while others, even following the same road, may run into any number of the demons that roam the area.</description>
     </item>
     
