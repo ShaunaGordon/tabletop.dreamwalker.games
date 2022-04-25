@@ -56,8 +56,8 @@ Floodslain, like [the Blessed Cultists]({{< relref "blessed-cultists.md" >}} "Bl
   - Small: 2d4+str
   - Medium: 2d6+str
   - Large: 2d8+str
-  - Huge: 2d10+str
-  - Gargantuan: 2d12+str
+  - Huge: 3d8+str
+  - Gargantuan: 3d10+str
 
 <div class="note wide left">
 Of course, the creature losing its weapons is an option, too.
