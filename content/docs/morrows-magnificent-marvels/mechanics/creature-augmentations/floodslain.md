@@ -204,7 +204,7 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10ft., one target. *Hit* 13 (1d12 + 7) piercing damage plus 3 (1d6) cold damage
 > 
-> ***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5ft., one target. *Hit* 14 (2d6 + 7) piercing damage
+> ***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5ft., one target. *Hit* 14 (2d6 + 7) slashing damage
 > 
 > ***Slam.*** *Melee Weapon Attack:* +11 to hit, reach 5ft., one target. *Hit* 16 (2d8 + 7) bludgeoning damage
 > 
