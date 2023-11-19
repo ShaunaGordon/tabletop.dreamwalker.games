@@ -5,36 +5,40 @@
     <link>//tabletop.dreamwalker.games/docs/morrows-magnificent-marvels/bestiary/</link>
     <description>Recent content in Bestiary on Tabletop Treasures</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="//tabletop.dreamwalker.games/docs/morrows-magnificent-marvels/bestiary/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="//tabletop.dreamwalker.games/docs/morrows-magnificent-marvels/bestiary/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Iomedaean Gryphon Rider</title>
       <link>//tabletop.dreamwalker.games/docs/morrows-magnificent-marvels/bestiary/gryphon-rider/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>//tabletop.dreamwalker.games/docs/morrows-magnificent-marvels/bestiary/gryphon-rider/</guid>
       <description>Iomedaean Gryphon Rider # Sporting lighter armor than their ground counterparts, the Gryphon Riders of Castle Urion are mounted Knights serving as air support and long-range patrol of the castle and River Road.
 Gryphons, however, are not mere steeds. As part of their training, Gryphon Riders must take an egg and incubate it as the Gryphon parents would, so that the hatchling imprints on the rider. The Gryphon remains loyal to the rider throughout their shared life, creating the deep bond and ability to act as a single unit that is required to perform the aerial acrobatics the Riders are known for.</description>
     </item>
-    
     <item>
       <title>Iomedaean Knight</title>
       <link>//tabletop.dreamwalker.games/docs/morrows-magnificent-marvels/bestiary/knight/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>//tabletop.dreamwalker.games/docs/morrows-magnificent-marvels/bestiary/knight/</guid>
       <description>Iomedaean Knight # The Iomedaean Knights serve as the guard and ruling class of Castle Urion in southwestern Numeria. As Knights of Iomedae, they embody the typical &amp;ldquo;knight in shining armor&amp;rdquo; ideal. Their steel plate and (typically) greatsword are crafted to appear nearly white, save for their red gold accents, and kept highly polished.
 Variant: Defensive # Defensive Knights forego the greatsword of most knights in favor of the more stereotypical longsword and shield, granting them additional protection at the expense of a little damage output.</description>
     </item>
-    
     <item>
       <title>Peluda</title>
       <link>//tabletop.dreamwalker.games/docs/morrows-magnificent-marvels/bestiary/peluda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>//tabletop.dreamwalker.games/docs/morrows-magnificent-marvels/bestiary/peluda/</guid>
       <description>Peluda # Peluda # Large Dragon, Neutral Evil
 Armor Class 18 (natural armor) Hit Points 209 (20d10 + 100) Speed 30 ft., swim 30 ft., climb 30 ft. STR DEX CON INT WIS CHA 27 (+8) 12 (+1) 21 (+5) 6 (-2) 15 (+2) 12 (+1) Damage Immunities fire Condition Immunities paralyzed Skills Intimidate +14, Perception +8, Stealth +7 Senses blindsight 30 ft., passive Perception 18 Languages Draconic Challenge 18 (20,000 XP) Proficiency Bonus +6 Vulnerable Tail The Peluda&amp;rsquo;s tail can be severed, rendering it unable to attack with it.</description>
     </item>
-    
+    <item>
+      <title>Wildshapes</title>
+      <link>//tabletop.dreamwalker.games/docs/morrows-magnificent-marvels/bestiary/wildshapes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//tabletop.dreamwalker.games/docs/morrows-magnificent-marvels/bestiary/wildshapes/</guid>
+      <description>Wildshapes # Young Owlbear # Medium Wildshape
+Armor Class 12 (natural armor) Hit Points 33 (5d8 + 10) Speed 40 ft STR DEX CON 18 (+4) 12 (+1) 16 (+2) Senses darkvision 60 ft Challenge 1 (200 XP) Proficiency Bonus +2 Keen Sight and Smell. The owlbear has advantage on Wisdom (Perception) checks that rely on sight or smell.
+Multiattack. The owlbear makes two attacks: one with its beak and one with its claws.</description>
+    </item>
   </channel>
 </rss>
